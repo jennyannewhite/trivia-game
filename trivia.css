@@ -1,0 +1,13 @@
+            body {
+                background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png");
+                padding-left: 20px;
+                overflow: auto;
+            }
+            
+            #heading-2 {
+                text-decoration-color: white
+            }
+            
+            #main-content {
+                background-color: white
+            }
